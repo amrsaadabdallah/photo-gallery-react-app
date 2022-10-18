@@ -47,6 +47,8 @@ with default search Info (searchWord: "",   currentPageNumber: 0)
 
 1. ReactJS Library.
 
+1. Axios is a stand-alone third party package that used for making HTTP requests to APIs.
+
 1. [Unsplash Image API | Free HD Photo API](https://unsplash.com/developers).
 
 1. PropTypes package for typechecking component props.
